@@ -21,6 +21,8 @@ wget https://repo.continuum.io/archive/Anaconda3-4.4.0-Linux-x86_64.sh && bash A
 
 Personal preferance.
 ```
+git config --global user.email "YuhangSong2017@gmail.com"
+git config --global user.name "YuhangSong"
 git config --global push.default "current"
 git config --global pull.default "current" 
 git config --global credential.helper "cache --timeout=36000000000000000"
